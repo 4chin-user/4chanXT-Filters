@@ -1,6 +1,5 @@
-# Filter Generals on /v/:
-#/general/i;boards:v;op:only
-#/.*wildcard example.*/i;boards:a,jp,sama:a,z;op:only;
+# Filter Porn threads on /gif/:
+# All filters are wildcard and not case sensitive
 /^.*bbw.*$/i;boards:gif;op:only;
 /^.*dildo.*$/i;boards:gif;op:only;
 /^.*bmwm.*$/i;boards:gif;op:only;
