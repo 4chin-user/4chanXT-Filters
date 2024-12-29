@@ -1,4 +1,5 @@
 # Filter Porn threads on /gif/:
+# These are also compatable as comment filters
 # All filters are wildcard and not case sensitive
 /^.*bbw.*$/i;boards:gif;op:only;
 /^.*dildo.*$/i;boards:gif;op:only;
@@ -122,3 +123,13 @@
 /^.*buck.*$/i;boards:gif;op:only;
 /^.*celeb.*$/i;boards:gif;op:only;
 /^.*pawg.*$/i;boards:gif;op:only;
+/^.*blow job.*$/i;boards:gif;op:only;
+/^.*blowie.*$/i;boards:gif;op:only;
+/^.*joi.*$/i;boards:gif;op:only;
+/^.*WTIYTSC.*$/i;boards:gif;op:only;
+/^.*snowbun.*$/i;boards:gif;op:only;
+/^.*ladyboy.*$/i;boards:gif;op:only;
+/^.*shemale.*$/i;boards:gif;op:only;
+/^.*breed.*$/i;boards:gif;op:only;
+/^.*isabel.*$/i;boards:gif;op:only;
+/^.*trans lov.*$/i;boards:gif;op:only;
