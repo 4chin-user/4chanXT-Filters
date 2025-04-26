@@ -1,6 +1,5 @@
 # Filter Porn threads on /gif/:
 # All filters are wildcard and not case sensitive
-# these filters hide threads based on keywords used in OP's comment
 /^.*bbw.*$/is;boards:gif;op:only;
 /^.*dildo.*$/is;boards:gif;op:only;
 /^.*bmwm.*$/is;boards:gif;op:only;
@@ -191,6 +190,7 @@
 /^.*titfuck.*$/is;boards:gif;op:only;
 /^.*tit fuck.*$/is;boards:gif;op:only;
 /^.*roleplay.*$/is;boards:gif;op:only;
+
 /^.*glory hole.*$/is;boards:gif;op:only;
 /^.*gloryhole.*$/is;boards:gif;op:only;
 /^.*sucking.*$/is;boards:gif;op:only;
@@ -223,3 +223,18 @@
 /^.*booty.*$/is;boards:gif;op:only;
 /^.*milkers.*$/is;boards:gif;op:only;
 /^.*labia.*$/is;boards:gif;op:only;
+/^.*pantyhose.*$/is;boards:gif;op:only;
+/^.*upskirt.*$/is;boards:gif;op:only;
+/^.*nationplay.*$/is;boards:gif;op:only;
+/^.*ejaculation.*$/is;boards:gif;op:only;
+/^.*impregnate.*$/is;boards:gif;op:only;
+/^.*thick woman.*$/is;boards:gif;op:only;
+/^.*tiddies.*$/is;boards:gif;op:only;
+/^.*bois.*$/is;boards:gif;op:only;
+/^.*cowgirl.*$/is;boards:gif;op:only;
+/^.*prego.*$/is;boards:gif;op:only;
+/^.*ballplay.*$/is;boards:gif;op:only;
+/^.*ai video.*$/is;boards:gif;op:only;
+/^.*casting.*$/is;boards:gif;op:only;
+/^.*frot.*$/is;boards:gif;op:only;
+/^.*hard fuck.*$/is;boards:gif;op:only;
